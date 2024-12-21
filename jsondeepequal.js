@@ -1,5 +1,5 @@
 
-//2826
+//2628
 //medium
 
 //Given two values o1 and o2, return a boolean value indicating whether two values, o1 and o2, are deeply equal.
